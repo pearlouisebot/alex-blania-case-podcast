@@ -1,0 +1,28 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="400" fill="url(#grad)"/>
+  
+  <!-- Human/AI Interface Symbol -->
+  <circle cx="150" cy="150" r="40" fill="rgba(255,255,255,0.3)" stroke="rgba(255,255,255,0.6)" stroke-width="3"/>
+  <circle cx="250" cy="150" r="40" fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.5)" stroke-width="2"/>
+  <line x1="190" y1="150" x2="210" y2="150" stroke="rgba(255,255,255,0.8)" stroke-width="4"/>
+  
+  <!-- Eye Symbol (for biometric/identity) -->
+  <ellipse cx="200" cy="180" rx="25" ry="15" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="200" cy="180" r="8" fill="rgba(255,255,255,0.8)"/>
+  
+  <!-- Title -->
+  <text x="200" y="260" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">ALEX BLANIA</text>
+  <text x="200" y="285" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="rgba(255,255,255,0.9)">Case Study</text>
+  
+  <!-- Subtitle -->
+  <text x="200" y="320" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="rgba(255,255,255,0.8)">Human Layer</text>
+  <text x="200" y="340" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="rgba(255,255,255,0.8)">Internet</text>
+</svg>

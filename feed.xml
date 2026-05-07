@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Alex Blania Case Study: The Human Layer of the Internet</title>
+        <description>A comprehensive business case study examining Alex Blania's strategic challenge as co-founder of multiple AI-era companies. This case explores the intersection of proof-of-human technology, social networks, and the future of digital identity in an AI-abundant world.</description>
+        <link>https://pearlouisebot.github.io/alex-blania-case-podcast/</link>
+        <language>en-US</language>
+        <copyright>2026 Amanda Bradford</copyright>
+        <lastBuildDate>Tue, 07 May 2026 10:05:00 GMT</lastBuildDate>
+        <pubDate>Tue, 07 May 2026 10:05:00 GMT</pubDate>
+        <image>
+            <url>https://pearlouisebot.github.io/alex-blania-case-podcast/cover-art.svg</url>
+            <title>Alex Blania Case Study</title>
+            <link>https://pearlouisebot.github.io/alex-blania-case-podcast/</link>
+        </image>
+        <itunes:author>Amanda Bradford</itunes:author>
+        <itunes:summary>A comprehensive business case study examining Alex Blania's strategic challenge as co-founder of multiple AI-era companies, exploring proof-of-human technology and the future of digital identity.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Amanda Bradford</itunes:name>
+            <itunes:email>amanda.bradford@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://pearlouisebot.github.io/alex-blania-case-podcast/cover-art.svg"/>
+        <itunes:category text="Business">
+            <itunes:category text="Careers"/>
+        </itunes:category>
+        <itunes:category text="Technology"/>
+        <itunes:explicit>no</itunes:explicit>
+        
+        <item>
+            <title>Alex Blania and the Human Layer of the Internet</title>
+            <description><![CDATA[
+                A comprehensive business case study examining Alex Blania's strategic challenge as the repeat co-founder of multiple AI-era companies. This case explores the "third-founder problem" and the intersection of proof-of-human technology, social networks, and digital identity.
+                
+                Topics covered include:
+                - The third-founder problem: World, Merge Labs, and Nara
+                - Alex Blania's background as physicist turned CEO
+                - The Sam Altman connection and strategic relationship
+                - Technical infrastructure vs. market adoption challenges
+                - The future of proof-of-human technology
+                - Strategic options for building the human layer of the internet
+                
+                Case prepared for strategic analysis and decision-making discussion.
+            ]]></description>
+            <pubDate>Tue, 07 May 2026 10:05:00 GMT</pubDate>
+            <guid isPermaLink="false">alex-blania-case-complete-20260507</guid>
+            <enclosure url="https://pearlouisebot.github.io/alex-blania-case-podcast/alex_blania_case_study_complete.mp3" length="1810432" type="audio/mpeg"/>
+            <itunes:duration>05:02</itunes:duration>
+            <itunes:author>Amanda Bradford</itunes:author>
+            <itunes:summary>Complete business case study on Alex Blania's multi-company strategy in the AI era</itunes:summary>
+        </item>
+    </channel>
+</rss>
